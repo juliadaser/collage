@@ -1,0 +1,54 @@
+Name: Julia
+Domain: https://www.adafruit.com/
+Use of the website: I'm a big fan of Adafruit for sourcing hardware materials for my physical computation projects. Their website has become my go-to destination for sensors, microcontrollers, or other components. I also appreciate that they're a New York-based, women-owned company, because it might motivate more women to enter the tech/engineering field. 
+
+
+Steps:
+0.Step
+- 192.168.1.1
+- Local router’s private IP address
+
+1.Step
+- 108.30.172.1
+- New York City
+- (40.713192, -74.006065)
+- The New York Public Library (NYPL) has over 50 million items in its collections, making it one of the largest public libraries in the world.
+(See IMAGE in folder: /images)
+
+
+2.Step
+- 100.41.25.252 & 100.41.25.250
+- Cambridge Massachusetts
+- (42.37511, -71.105746)
+- In 1965, Cambridge, Massachusetts became the first city in the United States to pass a rent control ordinance, which capped the amount by which landlords could increase rents on certain residential properties. This was a significant step in addressing housing affordability and tenant rights, and it set a precedent for other cities across the country to consider similar policies in the following decades.
+- https://shelterforce.org/1995/03/01/25-years-ago-tenants-organized-formed-coalitions-took-to-the-streets-and-won-rent-control-in-massachusetts/
+
+3.Step
+- 140.222.9.215 & 140.222.9.217
+- Atlanta Georgia
+- (33.748795, -84.387543)
+- Coretta Scott King, a powerful activist for the civil rights movement , and Martin Luther King Jr.'s wife, attended the Antioch College in Yellow Springs, Ohio, where she pursued her undergraduate degree in music and education. Coretta Scott King was a key figure in the civil rights movement and continued her advocacy work for social justice and civil rights long after her husband's assassination
+- https://www.theguardian.com/world/2018/feb/03/coretta-scott-king-extract
+(See IMAGE in folder: /images)
+
+4.Step
+- 152.193.5.194
+- New York City
+- (40.713192, -74.006065)
+- The New York Public Library (NYPL) has over 50 million items in its collections, making it one of the largest public libraries in the world.
+(See IMAGE in folder: /images)
+
+
+5.Step
+- 199.27.132.36 & 172.70.108.2 & 172.70.228.2
+- Newark, New Jersey
+- (40.732277 , -74.173575)
+- Newark, New Jersey, is home to the Newark Museum, one of the largest and oldest museums in the United States. Founded in 1909, it houses an extensive collection of art and artifacts, including works of American, Asian, African, and Native American art. The museum is also known for its impressive Tibetan art collection and its interactive science galleries, making it a cultural and educational hub in the city.
+- https://newarkmuseumart.org/
+
+6.Step
+- 104.20.39.240
+- San Francisco, California
+- (37.7757, -122.3952)
+- San Francisco was the site of a historic event in the LGBTQ+ rights movement. In 2004, then-Mayor Gavin Newsom authorized the issuance of marriage licenses to same-sex couples at San Francisco City Hall. This act marked a significant moment in the fight for LGBTQ+ rights in the United States and contributed to the eventual legalization of same-sex marriage nationwide. It also highlighted the city's commitment to human rights and social equality. San Francisco has a long history of being at the forefront of LGBTQ+ rights and activism.
+- https://www.nytimes.com/2004/02/12/national/san-francisco-city-officials-perform-gay-marriages.html
